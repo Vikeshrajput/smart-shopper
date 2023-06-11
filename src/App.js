@@ -11,7 +11,7 @@ import ProductDetailPage from './Pages/ProductDetailPage';
 function App() {
 
   const router = createBrowserRouter([
-    { path: '', element: <Home /> },
+    { path: '/', element: <Home /> },
     { path: '/login', element: <LoginPage /> },
     { path: '/signup', element: <SignUpPage /> },
     { path: '/cart', element: <CartPage /> },
