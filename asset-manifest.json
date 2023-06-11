@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/smart-shopper/static/css/main.bcad6535.css",
-    "main.js": "/smart-shopper/static/js/main.7dc22854.js",
-    "static/js/787.6079446b.chunk.js": "/smart-shopper/static/js/787.6079446b.chunk.js",
-    "index.html": "/smart-shopper/index.html",
-    "main.bcad6535.css.map": "/smart-shopper/static/css/main.bcad6535.css.map",
-    "main.7dc22854.js.map": "/smart-shopper/static/js/main.7dc22854.js.map",
-    "787.6079446b.chunk.js.map": "/smart-shopper/static/js/787.6079446b.chunk.js.map"
+    "main.css": "/static/css/main.bcad6535.css",
+    "main.js": "/static/js/main.b042a34a.js",
+    "static/js/787.6079446b.chunk.js": "/static/js/787.6079446b.chunk.js",
+    "index.html": "/index.html",
+    "main.bcad6535.css.map": "/static/css/main.bcad6535.css.map",
+    "main.b042a34a.js.map": "/static/js/main.b042a34a.js.map",
+    "787.6079446b.chunk.js.map": "/static/js/787.6079446b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcad6535.css",
-    "static/js/main.7dc22854.js"
+    "static/js/main.b042a34a.js"
   ]
 }
